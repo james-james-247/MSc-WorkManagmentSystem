@@ -1,0 +1,17 @@
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\bin\Debug\wmsDatabase.mdf
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\bin\Debug\wmsDatabase_log.ldf
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\bin\Debug\N0817034-SoftEng2-Project.exe.config
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\bin\Debug\N0817034-SoftEng2-Project.exe
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\bin\Debug\N0817034-SoftEng2-Project.pdb
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034-SoftEng2-Project.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.Properties.Resources.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034-SoftEng2-Project.csproj.GenerateResource.cache
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034-SoftEng2-Project.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034-SoftEng2-Project.exe
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034-SoftEng2-Project.pdb
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.loginPage.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.adminPage.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.adminCreate.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.userHome.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.adminNewUser.resources
+C:\Users\James\source\repos\N0817034-SoftEng2-Project\N0817034-SoftEng2-Project\obj\Debug\N0817034_SoftEng2_Project.timeline.resources
